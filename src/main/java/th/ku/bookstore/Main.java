@@ -12,7 +12,7 @@ public class Main {
         BookDao bookDao = context.getBean("bookDaoImp", BookDao.class);
 
         // ---- insert book ----
-        Book newBook = new Book(4, "Basic of Spring Framework", 556);
+        Book newBook = new Book(6, "Basic of Spring Framework", 557);
         bookDao.save(newBook);
 
         // ---- select book ----
@@ -32,7 +32,7 @@ public class Main {
         System.out.println("---fineById: " + spring);
 
         // ---- delete book ----
-        bookDao.deleteById(4);
+        bookDao.deleteById(5);
 
         bookList = bookDao.findAll();
         for (Book book : bookList) {

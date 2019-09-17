@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b56f7091-2d74-4162-a9e4-3505652e63d1" name="Default Changelist" comment="" />
+    <list default="true" id="b56f7091-2d74-4162-a9e4-3505652e63d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore.db" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/th/ku/bookstore/BookDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/th/ku/bookstore/BookDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/th/ku/bookstore/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/th/ku/bookstore/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/th/ku/bookstore/BookDaoImp$BookRowMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/th/ku/bookstore/BookDaoImp$BookRowMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/th/ku/bookstore/BookDaoImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/th/ku/bookstore/BookDaoImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/th/ku/bookstore/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/th/ku/bookstore/Main.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -39,7 +51,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Qu60JLmsl8CG4jUSPYOvRSA1DP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -94,11 +108,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568607909642</updated>
-      <workItem from="1568607910823" duration="2698000" />
+      <workItem from="1568607910823" duration="5658000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
